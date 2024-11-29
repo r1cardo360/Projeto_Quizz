@@ -38,7 +38,7 @@ O projeto está organizado da seguinte forma:
 
 ### Link para Testar o Projeto Online
 
-Clique [aqui](<coloque o link para o seu projeto no GitHub Pages>) para testar o quiz diretamente no seu navegador!
+Clique [aqui](https://r1cardo360.github.io/Projeto_Quizz/) para testar o quiz diretamente no seu navegador!
 
 ---
 
