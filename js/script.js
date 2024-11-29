@@ -32,7 +32,7 @@ const questions = [
         ]
     },
     {
-        "question": "Qual é o nume do Time de Naruto ?",
+        "question": "Qual é o número do time de Naruto ?",
         "answers": [
             {
                 "answer":"Time 10",
@@ -54,7 +54,7 @@ const questions = [
         ]
     },
     {
-        "question": "Qual o Jutso que o Naruto mais usa durante sua Jornada ?",
+        "question": "Qual o Jutso que o Naruto mais usa durante sua jornada ?",
         "answers": [
             {
                 "answer":"Chidori",
@@ -76,7 +76,7 @@ const questions = [
         ]
     },
     {
-        "question": "Qual o nome da besta de caldas Selada dentro do naruto ?",
+        "question": "Qual o nome da besta de caldas selada dentro do Naruto ?",
         "answers": [
             {
                 "answer":"Shukaku",
@@ -98,7 +98,7 @@ const questions = [
         ]
     },
     {
-        "question": "Quem foi o Primeiro Hokage de Konoha",
+        "question": "Quem foi o primeiro Hokage de Konoha ?",
         "answers": [
             {
                 "answer":"Minato Namikaze",
@@ -120,7 +120,7 @@ const questions = [
         ]
     },
     {
-        "question": "Quem foi o mestre de Orochimaru antes dele se rebelar contra Konoha",
+        "question": "Quem foi o mestre de Orochimaru antes dele se rebelar contra Konoha ?",
         "answers": [
             {
                 "answer":"Jiraya",
@@ -142,7 +142,7 @@ const questions = [
         ]
     },
     {
-        "question": "Qual o nome do Clan do qual Hinata e Neji Pertencem",
+        "question": "Qual o nome do clã ao qual Hinata e Neji pertencem ?",
         "answers": [
             {
                 "answer":"Uchiha",
